@@ -5,7 +5,7 @@
    Now looking into [RetroArch](https://github.com/freedom-foundation/RetroArch) to clarify if "cores" correspond to chip designes or if they are only verbatim.
 - 🌱 I’m currently learning how to use git and GitHub in order to download and then search and view code to look for bugs and do mantainence or find code to import into my own code.
 - 💞️ I’m looking to collaborate on general welfare and public interest projects these are open for participation and volunteer for the betters now. An example of a public interest repo of mine is here https://github.com/freedom-foundation/Peeranoia_Framework . Private endeavours include physics and quantum physics related components such as freedom-foundation/Chronometer. Such may be public for a while then private.
-- 📫 How to reach me, my general-use email is A_bughunter(at)proton(dot)me this has Proton's server-side PGP enabled and auto GPG enabled. However Proton GPG may not be secure to my machine.
+- 📫 How to reach me, my public GitHub git email address is 179414429+freedom-foundation@users.noreply.github.com this should relay to the following or any latter updated current email, my general-use email is A_bughunter(at)proton(dot)me this has Proton's server-side PGP enabled and auto GPG enabled. However Proton GPG may not be secure to my machine.
 - For Letters of marque and reprisal email Letters_of_Marque_and_Reprisal(at)protonmail(dot)com I used the .com domain here which is an old official standard of domain (.org, .net, .com)
 - 😄 Pronouns: The
 - ⚡ Fun fact: The bill of rights is actually one single amendment.
