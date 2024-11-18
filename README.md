@@ -1,6 +1,6 @@
 👋 Hi, I’m @freedom-foundation. The founding documents of Freedom Foundation follow:
 - [The unanimous Declaration of the thirteen united States of America](https://github.com/freedom-foundation/The-unanimous-Declaration-of-the-thirteen-united-States-of-America/blob/main/The_unanimous_Declaration_of_the_thirteen_united_States_of_America.b7626cfa0edbec6402e63b9d17a9faa5.1.1338.8118.ASCII.txt),
-- [My Declaration](https://github.com/freedom-foundation/My_Declaration/blob/main/My_Declaration_(tabloid).201cc1e31692281d8597eed259be8540.pdf),
+- [My Declaration](https://github.com/freedom-foundation/My_Declaration),
 - [Articles of Confederation and perpetual Union](https://github.com/freedom-foundation/Articles-of-Confederation-and-perpetual-Union),
 - [Constitution for the United States of America amended fiVth Article](https://github.com/freedom-foundation/Constitution-for-the-United-States-of-America-amended-fiVth-Article/tree/main),
 - and [Journal of The Congress](https://github.com/freedom-foundation/Journal-of-The-Congress/tree/main).
