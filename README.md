@@ -4,7 +4,7 @@
 - [Articles of Confederation and perpetual Union](https://github.com/freedom-foundation/Articles-of-Confederation-and-perpetual-Union),
 - [Constitution for the United States of America amended fiVth Article](https://github.com/freedom-foundation/Constitution-for-the-United-States-of-America-amended-fiVth-Article/tree/main),
 ⚡ Fun fact: The bill of rights is actually one single amendment.
-- and [Journal of The Congress](https://github.com/freedom-foundation/Journal-of-The-Congress/tree/main).⚡ Not so fun fact: I journaled The Congress in a radioactive wasteland. 
+- and [Journal of The Congress](https://github.com/freedom-foundation/Journal-of-The-Congress/tree/main).⚡ Not so fun fact: I journaled The Congress in a radioactive wasteland. [[W](https://en.wikipedia.org/wiki/Coldwater_Creek_(Missouri_river_tributary)#Mallinckrodt_nuclear_waste_contamination)]
 
  These documents have priority to be archived in both [ASCII](https://github.com/freedom-foundation/ASCII-format-for-Network-Interchange) wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then signed and attested, garunteed to be veritable to corresponding printed replica documents. Now I focus on finding the right [unicode map](https://github.com/freedom-foundation/unicode_map) because in order to make checksums veritable the exact encoding must also be included: years go by and the checksums are not sure without the map. I will use [veraPDF apps](https://github.com/freedom-foundation/veraPDF-apps) to validate the PDF releases for archiving. Take a look at my [gists](https://gist.github.com/freedom-foundation). 
 - 👀 I’m interested in sourcecode and libre-sourcecode.
