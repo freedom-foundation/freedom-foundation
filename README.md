@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @freedom-foundation. The founding documents of Freedom Foundation follow:
+👋 Hi, I’m @freedom-foundation. The founding documents of Freedom Foundation follow:
 - [The unanimous Declaration of the thirteen united States of America](https://github.com/freedom-foundation/The-unanimous-Declaration-of-the-thirteen-united-States-of-America/blob/main/The_unanimous_Declaration_of_the_thirteen_united_States_of_America.b7626cfa0edbec6402e63b9d17a9faa5.1.1338.8118.ASCII.txt),
 - [My Declaration](https://github.com/freedom-foundation/My_Declaration/blob/main/My_Declaration_(tabloid).201cc1e31692281d8597eed259be8540.pdf),
 - [Articles of Confederation and perpetual Union](https://github.com/freedom-foundation/Articles-of-Confederation-and-perpetual-Union),
 - [Constitution for the United States of America amended fiVth Article](https://github.com/freedom-foundation/Constitution-for-the-United-States-of-America-amended-fiVth-Article/blob/main/1f2edee663f5a147bc575bdf7b2ddc19.txt),
 - and [Journal of The Congress](https://github.com/freedom-foundation/Journal-of-The-Congress/blob/main/Journal_of_The_Congress.239.3227.19893.UTF-8.e10de9f685d40e08959cc40fa76b01d8.txt).
+
  These documents have priority to be archived in both ASCII wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then signed and attested, garunteed to be veritable to corresponding printed replica documents. Now I focus on finding the right [unicode map](https://github.com/freedom-foundation/unicode_map) because in order to make checksums veritable the exact encoding must also be included: years go by and the checksums are not sure without the map. I will use [veraPDF apps](https://github.com/freedom-foundation/veraPDF-apps) to validate the PDF releases for archiving. Take a look at my [gists](https://gist.github.com/freedom-foundation). 
 - 👀 I’m interested in sourcecode and libre-sourcecode.
   Libre-sourcecode being defined as allof a machine specification (chip design), compiler and application sourcecode which can be written out in respective computer programming languages and archived, saved, transmit, reproduced, and build and run all from paper written legit.
