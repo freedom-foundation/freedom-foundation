@@ -9,7 +9,7 @@
  These documents have priority to be archived in both [ASCII](https://github.com/freedom-foundation/ASCII-format-for-Network-Interchange) wordcounted and checksummed text and PDF/A-1 archive format for long term preservation then signed and attested, garunteed to be veritable to corresponding printed replica documents.
  These have priority yet there is more:
  Copper Sovereign Liberty Coin,
- Free Press and [1611 King James Bible](https://github.com/freedom-foundation/kjbible)
+ [freePress™](https://github.com/freedom-foundation/freePress) and [1611 King James Bible](https://github.com/freedom-foundation/kjbible)
 
  Now I focus on finding the right [unicode map](https://github.com/freedom-foundation/unicode_map) because in order to make checksums veritable the exact encoding must also be included: years go by and the checksums are not sure without the map. I will use [veraPDF apps](https://github.com/freedom-foundation/veraPDF-apps) to validate the PDF releases for archiving. 
 
