@@ -13,6 +13,7 @@
 
  Now I focus on finding the right [unicode map](https://github.com/freedom-foundation/unicode_map) because in order to make checksums veritable the exact encoding must also be included: years go by and the checksums are not sure without the map. I will use [veraPDF apps](https://github.com/freedom-foundation/veraPDF-apps) to validate the PDF releases for archiving. My focust shifts to [vernam-expert-telegram
 ](https://github.com/freedom-foundation/vernam-expert-telegram) a service which depends on veritable ASCII.
+
 Take a look at my [gists](https://gist.github.com/freedom-foundation). 
  👀 I’m interested in sourcecode and libre-sourcecode.
   Libre-sourcecode being defined as allof a machine specification (chip design), compiler and application sourcecode which can be written out in respective computer programming languages and archived, saved, transmit, reproduced, and build and run all from paper written legit.
