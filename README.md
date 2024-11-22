@@ -24,7 +24,7 @@ Take a look at my [gists](https://gist.github.com/freedom-foundation).
 
 💞️ I’m looking to collaborate on general welfare and public interest projects these are open for participation and volunteer for the betters now. America need's farmers. An example of a public interest repo of mine is CopWatch. AmericA need's [CopWatch](https://github.com/freedom-foundation/Copwatch_Database).
 
-Join now! I now build my community [Peeranoia_Framework](https://github.com/freedom-foundation/Peeranoia_Framework) and so far so good: take a look! If you can do a checksum you qualify to join PEERANOIA. Get into the Discussion. Join now!
+Join now! I now build my community [Peeranoia_Framework](https://github.com/freedom-foundation/Peeranoia_Framework) and so far so good: take a look! If you can do a checksum you qualify to join PEERANOIA. Get into the [Discussion](https://github.com/freedom-foundation/Peeranoia_Framework/discussions/1). Join now!
 
 Private endeavours include [physics](https://gist.github.com/freedom-foundation/280feb4ef9c35645c774dc8952156a6e) and [quantum physics](https://github.com/freedom-foundation/Quantum_Reality) related components such as [Chronometer](https://github.com/freedom-foundation/Chronometer). Such may be public for a while then private.
 
