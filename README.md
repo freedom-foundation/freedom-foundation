@@ -1,4 +1,6 @@
-👋 Hi, I’m @freedom-foundation. The founding documents of Freedom Foundation follow:
+👋 Hi, I’m @freedom-foundation. What you are looking at is my GitHub profile. The profile is designed to be a homepage for myself to look over my work and continue work. As I work on code this profile will be updated to showcase my current work. It is an index of all of my repos. All of my repositories have mention and links. Only my repositories or contributions are linked here.
+ Clicking the repo links will show a readme  expounding upon the description mentioned. The copyright and liscense should be displayed at the top. Much of this is PUBLIC DOMAIN. Some are not free to copy, notably My Declaration I released under a view & read only license.
+ The founding documents of Freedom Foundation follow:
 - [The unanimous Declaration of the thirteen united States of America](https://github.com/freedom-foundation/The-unanimous-Declaration-of-the-thirteen-united-States-of-America),
 - [My Declaration](https://github.com/freedom-foundation/My_Declaration),⚡ Not so fun fact: I wrote My Declaration under the stress of 21 well documented crimes against me.
 - [Articles of Confederation and perpetual Union](https://github.com/freedom-foundation/Articles-of-Confederation-and-perpetual-Union),
