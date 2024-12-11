@@ -52,6 +52,8 @@ Liberty is a priceless blessing. From God and God alone is Our Sovereignty. How 
 -but the lesser faith is alloted to attempt. 
  -and concessions for family life. (clemency)
 
+He who wears the shadow ring make's the Shadowruns.
+
 😄 Pronouns: The
 <!---
 freedom-foundation/freedom-foundation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
