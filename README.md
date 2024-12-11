@@ -45,7 +45,7 @@ Private endeavours include [physics](https://gist.github.com/freedom-foundation/
 
 Here is a $10,000 report not paid for [An_open_letter_to_ProtonVPN](https://github.com/freedom-foundation/An_open_letter_to_ProtonVPN).
 
-Ultimately, AmericA is guarunteed religiously by EXTERMINANS. That the King in you would Assent to the destruction of the sinner. Though religion is not to be touched by legislation: First amendation of the first amending- mended.  
+Ultimately, AmericA is guarunteed religiously by [EXTERMINANS](https://gist.github.com/freedom-foundation/6bde613d2db0f081ea15b91c8b05e2a9). That the King in you would Assent to the destruction of the sinner. Though religion is not to be touched by legislation: First amendation of the first amending- mended.  
 
 Liberty is a priceless blessing. From God and God alone is Our Sovereignty. How sure a foundation.
 
