@@ -1,5 +1,15 @@
 Right now I am working on [LIVING_WILL_SOVEREIGN](https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN).
 
+OpSec Advisory issued Wed, Dec 11 until further notice by @freedom-foundation  Operate under the assumption of a compromised account.
+
+OpSec Advisory issued Wed, Dec 11 until further notice by @freedom-foundation 
+
+*WHAT...Login may be compromised. GitHub’s official command line tool reports already logged in. *
+*WHERE...Affects all GitHub accounts Sessions webpanel. *
+*WHEN...until further notice. Until GitHub replys with a fix for ticket #3099554. *
+*IMPACTS...Affects all GitHub accounts. Impacts Sessions web panel ability to de-authenticate login sessions. Certainly those accounts having logged in using GitHub’s official command line tool.*
+*Instructions...Operate under the assumption of a compromised account. For more information see Device Verification - @freedom-foundation [#3099554](https://support.github.com/ticket/personal/0/3099554) Freedom Foundation opened this ticket for freedom-foundation Nov 17, 2024 · 3 comments Having no reply from GitHub support for ticket #3099554 it is safe to operate under the assumption of a compromised account. See also community post [#144821](https://github.com/orgs/community/discussions/144821) and related link GitHub’s official command line tool [cli.github.com](https://cli.github.com/)*
+
 👋 Hi, I’m @freedom-foundation. What you are looking at is my GitHub profile. The profile is designed to be a homepage for myself to look over my work and continue work. As I work on code this profile will be updated to showcase my current work. It is an index of all of my repos. All of my repositories have mention and links. Only my repositories or contributions are linked here.
  Clicking the repo links will show a readme  expounding upon the description mentioned. The copyright and liscense should be displayed at the top. Much of this is PUBLIC DOMAIN. Some are not free to copy, notably My Declaration I released under a view & read only license.
  The founding documents of Freedom Foundation follow:
