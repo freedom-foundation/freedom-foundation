@@ -1,6 +1,6 @@
 Right now I am working on [LIVING_WILL_SOVEREIGN](https://github.com/freedom-foundation/LIVING_WILL_SOVEREIGN).
 
-OpSec Advisory issued Wed, Dec 11 until further notice by @freedom-foundation  Operate under the assumption of a compromised account.
+OpSec Advisory Wed, Dec 11 Operate under the assumption of a compromised account
 
 OpSec Advisory issued Wed, Dec 11 until further notice by @freedom-foundation *WHAT...Login may be compromised. GitHub’s official command line tool reports already logged in. **WHERE...Affects all GitHub accounts Sessions webpanel. **WHEN...until further notice. Until GitHub replys with a fix for ticket #3099554. **IMPACTS...Affects all GitHub accounts. Impacts Sessions web panel ability to de-authenticate login sessions. Certainly those accounts having logged in using GitHub’s official command line tool.**Instructions...Operate under the assumption of a compromised account. For more information see Device Verification - @freedom-foundation [#3099554](https://support.github.com/ticket/personal/0/3099554) Freedom Foundation opened this ticket for freedom-foundation Nov 17, 2024 · 3 comments Having no reply from GitHub support for ticket #3099554 it is safe to operate under the assumption of a compromised account. See also community post [#144821](https://github.com/orgs/community/discussions/144821) and related link GitHub’s official command line tool [cli.github.com](https://cli.github.com/)
 
