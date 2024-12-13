@@ -51,8 +51,7 @@ Private endeavours include [physics](https://gist.github.com/freedom-foundation/
 
 [ACME Anvil Bug](https://github.com/freedom-foundation/openssl.20241213/issues/1#issue-2738803277) Solution issuing [Private-Cerification-Authority](https://github.com/freedom-foundation/Private-Cerification-Authority) and [Public-Certificate-Authority](https://github.com/freedom-foundation/Public-Certificate-Authority) using CA.
 
-[Google Chrome for android Criminal espionage bug](https://github.com/users/freedom-foundation/projects/2) "Wherever the internet is I am facing intercontinental enemies." [#discussioncomment-11356142](https://github.com/freedom-foundation/Peeranoia_Framework/discussions/1#discussioncomment-11356142) [chromium-debug](https://github.com/freedom-foundation/chromium-debug)
-
+[Google Chrome for android Criminal espionage bug](https://github.com/users/freedom-foundation/projects/2) "Wherever the internet is I am facing intercontinental enemies." [#discussioncomment-11356142](https://github.com/freedom-foundation/Peeranoia_Framework/discussions/1#discussioncomment-11356142) [chromium-debug](https://github.com/freedom-foundation/chromium-debug) meanwhile I began to use [PrivacyBrowserAndroid.202409252246](https://github.com/freedom-foundation/PrivacyBrowserAndroid.202409252246) which really showcases privacy features you want but it is hacky and not sure it all works See also my comment about the POLARIS Comittee introducing this criminal espionage bug into Google Inc. 
 
 Here is a $10,000 report not paid for [An_open_letter_to_ProtonVPN](https://github.com/freedom-foundation/An_open_letter_to_ProtonVPN). Related to [android-app.20241213](https://github.com/freedom-foundation/android-app.20241213).
 
