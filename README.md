@@ -59,7 +59,9 @@ Ultimately, AmericA is guarunteed religiously by [EXTERMINANS](https://gist.gith
 
 Liberty is a priceless blessing. From God and God alone is Our Sovereignty. How sure a foundation. -but the lesser faith is alloted to attempt. -and concessions for family life. (clemency)
 
-😄 Pronouns: The
+[embedded_krytron_trigger](https://github.com/freedom-foundation/embedded_krytron_trigger)
+
+and making sure everything is on time 
 
 "He who wears the shadow ring make's the Shadowruns."
 <!---
