@@ -49,7 +49,7 @@ Private endeavours include [physics](https://gist.github.com/freedom-foundation/
 
 [My Projects](https://github.com/freedom-foundation?tab=projects)
 
-[#25319](https://github.com/openssl/openssl/discussions/25319#discussioncomment-10662869)
+[ACME Anvil Bug](https://github.com/freedom-foundation/openssl.20241213/issues/1#issue-2738803277)
 
 [Google Chrome for android Criminal espionage bug](https://github.com/users/freedom-foundation/projects/2)
 
