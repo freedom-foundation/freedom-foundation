@@ -53,7 +53,7 @@ Private endeavours include [physics](https://gist.github.com/freedom-foundation/
 
 [Google Chrome for android Criminal espionage bug](https://github.com/users/freedom-foundation/projects/2)
 
-Here is a $10,000 report not paid for [An_open_letter_to_ProtonVPN](https://github.com/freedom-foundation/An_open_letter_to_ProtonVPN).
+Here is a $10,000 report not paid for [An_open_letter_to_ProtonVPN](https://github.com/freedom-foundation/An_open_letter_to_ProtonVPN). Related to [android-app.20241213](https://github.com/freedom-foundation/android-app.20241213).
 
 Ultimately, AmericA is guarunteed religiously by [EXTERMINANS](https://gist.github.com/freedom-foundation/6bde613d2db0f081ea15b91c8b05e2a9). That the King in you would Assent to the destruction of the sinner. Though religion is not to be touched by legislation: First amendation of the first amending- mended.  
 
