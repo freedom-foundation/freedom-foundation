@@ -49,6 +49,8 @@ Private endeavours include [physics](https://gist.github.com/freedom-foundation/
 
 [My Projects](https://github.com/freedom-foundation?tab=projects)
 
+[#25319](https://github.com/openssl/openssl/discussions/25319#discussioncomment-10662869)
+
 [Google Chrome for android Criminal espionage bug](https://github.com/users/freedom-foundation/projects/2)
 
 Here is a $10,000 report not paid for [An_open_letter_to_ProtonVPN](https://github.com/freedom-foundation/An_open_letter_to_ProtonVPN).
