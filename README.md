@@ -53,7 +53,7 @@ Private endeavours include [physics](https://gist.github.com/freedom-foundation/
 
 [Google Chrome for android Criminal espionage bug](https://github.com/users/freedom-foundation/projects/2) "Wherever the internet is I am facing intercontinental enemies." [#discussioncomment-11356142](https://github.com/freedom-foundation/Peeranoia_Framework/discussions/1#discussioncomment-11356142) [chromium-debug](https://github.com/freedom-foundation/chromium-debug) meanwhile I began to use [PrivacyBrowserAndroid.202409252246](https://github.com/freedom-foundation/PrivacyBrowserAndroid.202409252246) which really showcases privacy features you want but it is hacky and not sure it all works See also my comment about the POLARIS Comittee introducing this criminal espionage bug into Google Inc. 
 
-Here is a $10,000 report not paid for [An_open_letter_to_ProtonVPN](https://github.com/freedom-foundation/An_open_letter_to_ProtonVPN). Related to [android-app.20241213](https://github.com/freedom-foundation/android-app.20241213).
+Here is a $10,000 report not paid for [An_open_letter_to_ProtonVPN](https://github.com/freedom-foundation/An_open_letter_to_ProtonVPN). About a security vulnerability report affecting ProtonVPN [android-app.20241213](https://github.com/freedom-foundation/android-app.20241213).
 
 Ultimately, AmericA is guarunteed religiously by [EXTERMINANS](https://gist.github.com/freedom-foundation/6bde613d2db0f081ea15b91c8b05e2a9). That the King in you would Assent to the destruction of the sinner. Though religion is not to be touched by legislation: First amendation of the first amending- mended.  
 
